@@ -763,31 +763,30 @@ a.more-details .fa{
     padding: 30px 0;
 }
 .page-title-1 {
-    background-image: url('../img/pics/rose_design.jpg');  
+    background-image: url('../img/pics/page-title-1.jpg');  
 }
 .page-title-2 {
-    background-image: url('../img/page-titles/page-title-darkpurple.jpg');  
+    background-image: url('../img/pics/page-title-2.jpg');  
 }
 
-
 .page-title-3 {
-    background-image: url('../img/page-titles/page-title-darkpurple.jpg');  
+    background-image: url('../img/pics/page-title-3.jpg');  
 }
 
 .page-title-4 {
-    background-image: url('../img/page-titles/page-title-1.jpg');  
+    background-image: url('../img/pics/page-title-4.jpg');  
 }
 .page-title-5 {
-    background-image: url('../img/Decor1.jpg');  
+    background-image: url('../img/pics/page-title-2.jpg');  
 }
 .page-title-6 {
-    background-image: url('../img/page-titles/page-title-darkpurple.jpg');  
+    background-image: url('../img/pics/page-title-2.jpg');  
 }
 .page-title-7 {
-    background-image: url('../img/gallery/10405550_801287273241132_3478874552777661294_n-1.jpg');  
+    background-image: url('../img/pics/page-title-5.jpg');  
 }
 .page-title-8 {
-    background-image: url('../img/page-title/page-title-darkpurple.jpg');  
+    background-image: url('../img/pics/page-title-1.jpg');  
 }
 
 /* ==========================================================================
@@ -1926,7 +1925,7 @@ ul#filters {
     background-color: ;
     color: #161d27;
     float: left;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 22px;
     z-index: 2;
     font-weight: 700;
@@ -1952,9 +1951,10 @@ ul#filters {
     width: 100%;
 }
 .menu-style-2 .menu-item-description p{
+    font-size: 20px;
     padding-top: 0px;
     padding-right: 175px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     line-height: 22px;
     color: #777777;
 }
